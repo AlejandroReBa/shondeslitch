@@ -269,3 +269,12 @@ button:hover,
 .button.button-youtube:focus {
   filter: brightness(90%) }
 
+/* StackOverflow */
+.button.button-stackoverflow {
+  color: #FFFFFF;
+  background-color: #f48024 }
+.button.button-youtube:hover,
+.button.button-youtube:focus {
+  filter: brightness(90%) }
+
+
